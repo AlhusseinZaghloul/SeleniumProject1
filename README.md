@@ -1,0 +1,1 @@
+First of all, you must make sure Java JDK is already installed on your machine, maven, ide (any integrated development environment like IntelliJ, download all dependencies from maven repository make sure that the web driver version is compatible with the browser version dive in deep in practicing in automation selenium framework.
